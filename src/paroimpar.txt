@@ -1,0 +1,12 @@
+Inicio
+
+    Escribe un numero
+
+    Lee numero
+
+    Si el numero dividido entre 2 da de resto 0 entonces
+        es par
+    Si no 
+        es impar
+
+Fin

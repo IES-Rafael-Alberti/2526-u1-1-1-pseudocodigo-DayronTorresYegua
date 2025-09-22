@@ -1,0 +1,18 @@
+Inicio
+
+    Introducimos un numero
+    Creamos un contador iniciado a 0
+
+    Creamos un numero2 que sea igual a numero
+
+    Mientras que numero2 sea mayor o igual a 1 hacemos:
+
+        Si al dividir numero y numero2 el resto da 0 hacemos
+            Sumamos 1 al contador
+        A numero2 le restamos 1
+
+    Si contador es igual a 2 entonces el numero es primo
+
+    Si no el numero no es primo
+
+Fin

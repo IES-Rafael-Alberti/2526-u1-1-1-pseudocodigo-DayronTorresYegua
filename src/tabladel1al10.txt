@@ -1,0 +1,8 @@
+Inicio
+
+    Para numero desde el uno al 10
+        Para multiplicador desde 1 hasta 10
+            resultado = numero * multiplicador
+            mostrar numero por multiplicador es igual a resultado
+        
+Fin

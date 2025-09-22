@@ -1,0 +1,11 @@
+Inicio
+
+    Introduce horas de trabajo
+
+    Introduce precio por hora
+
+    Calcula importe total que es igual a  horas de trabajo por precio por hora
+
+    Imprime el importe total 
+
+Fin
